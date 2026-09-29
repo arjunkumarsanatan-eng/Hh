@@ -1,0 +1,6 @@
+{
+  "name": "FF Tactical Range - ESP Aim Trainer",
+  "description": "Tactical training zone aim trainer with ESP dummy targets, headshot mechanics, weapon arsenal, and battle royale reflex drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
